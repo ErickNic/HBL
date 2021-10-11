@@ -189,10 +189,12 @@ main{
     display: flex;
     justify-content: center;
     transition: 300ms ease-out;
+    cursor:pointer;
 }
 .dots_evento{
     background-color: cornflowerblue;
     transition: 300ms ease-out;
+    cursor:pointer;
     border-left: cadetblue solid;
     box-shadow: 4px 4px grey;
 }
